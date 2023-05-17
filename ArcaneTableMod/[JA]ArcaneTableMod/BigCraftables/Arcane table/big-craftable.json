@@ -24,7 +24,7 @@
         // "ja": "",
         "pt": "Mesa Arcana"
         // "ru": "",
-        // "tr": "",
+        "tr": "Gizemli Masa",
         // "zh": "",
     },
     "DescriptionLocalization": {
@@ -37,7 +37,7 @@
         // "ja": "",
         "pt": "Mesa imbuída de poderes arcanos que pode replicar espólio de monstros."
         // "ru": "",
-        // "tr": "",
+        "tr": "Canavar ganimetlerini yeniden üretmesine izin veren esrarengiz güçlerle dolu bir masa.",
         // "zh": "",
     }
 }
