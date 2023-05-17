@@ -21,7 +21,7 @@
         // "ja": "",
         "pt": "Barril de madeira de lei",
         "ru": "Бочонок из твёрдой древесины"
-        // "tr": "",
+        "tr": "Kereste Fıçı",
         // "zh": "",
     },
     "DescriptionLocalization": {
@@ -34,7 +34,7 @@
         // "ja": "",
         "pt": "Utilizado na adega para envelhecer produtos como queijo e vinho. Mais rápido que o de madeira comum.",
         "ru": "Используется в погребе для выдержки вин и сыров. Быстрее, чем обычный бочонок"
-        // "tr": "",
+        "tr": "Peynir ve şarap gibi gıdaları yıllandırmak için kilerde tutulur. Normal fıçıdan daha hızlıdır.",
         // "zh": "",
     }
 }
